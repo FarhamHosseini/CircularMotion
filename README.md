@@ -21,6 +21,9 @@ allprojects {
 implementation group: 'com.apachat', name: 'circularmotion-android', version: '1.0.4'
 ```
 
+Badge:
+-----
+[![Maven Central](https://img.shields.io/maven-central/v/com.apachat/circularmotion-android.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.apachat%22%20AND%20a:%22circularmotion-android%22)
 
 #### Use `CircularMotionViewPager` instead of the normal `ViewPager`
 ```
